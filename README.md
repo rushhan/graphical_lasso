@@ -9,6 +9,9 @@ Simply execute the jupyter notebook
 Precision Matrix across markets:
 ![](Images/precision.jpg)
 
+
+
+
 Trading Pairs:
 ![](Images/clustering.jpg)
 
